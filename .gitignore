@@ -32,3 +32,9 @@
 # Ignore system files
 .DS_Store
 Thumbs.db
+
+# Ignora arquivos de configuração do Eclipse
+.classpath
+
+# Ignora todos os arquivos de bytecode Java
+*.class
