@@ -1,0 +1,32 @@
+# Ignore log files
+*.log
+
+# Ignore build directories
+/build/
+/bin/
+/out/
+/build_wrapper_output_directory/
+
+# Ignore IDE specific files
+*.idea/
+*.vscode/
+*.class/
+*.classpath/
+
+
+# Ignore temporary files
+*.tmp
+*.swp
+*.bak
+*.project
+
+# Ignore execution files
+*.exe
+
+# Ignore node modules
+/node_modules/
+/build_wrapper_output_directory/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
